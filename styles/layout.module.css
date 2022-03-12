@@ -1,0 +1,59 @@
+.navbar {
+  background-color: #203040;
+}
+
+.navbar a {
+  color: #ffffff;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.space a {
+  margin-right: 4px;
+}
+
+.main {
+  min-height: 80vh;
+  margin-top: 20px;
+}
+
+.footer {
+  color: white;
+  background-color: #203040;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+.form {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.navbarButton {
+  color: #ffffff;
+  text-transform: initial;
+}
+
+.transparentBackground {
+  background-color: transparent;
+}
+
+.error {
+  color: #f04040;
+}
+
+.btn {
+  text-transform: unset !important;
+  color: white;
+}
