@@ -1,0 +1,55 @@
+.navbar {
+  background-color: #203040;
+}
+
+.navbar a {
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.space a {
+  margin-right: 4px;
+}
+
+.main {
+  min-height: 80vh;
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.navbarButton {
+  color: #ffffff;
+  text-transform: initial;
+}
+
+.transparentBackground {
+  background-color: transparent;
+}
+
+.error {
+  color: #f04040;
+}
